@@ -9,4 +9,5 @@ Tema: Avaliação e Conformidade de Modelos de IA responsável em Saúde
 ---
 
 Base de dados: MIMIC-IV 
+
 Linguagem: Python
