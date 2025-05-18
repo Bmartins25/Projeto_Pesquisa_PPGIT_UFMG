@@ -1,4 +1,4 @@
-# Projeto_Pesquisa_UFMG
+# Projeto_Pesquisa_PPGIT_UFMG
 
 Repositório criado para o projeto de Pesquisa acadêmica PPGIT-UFMG
 
