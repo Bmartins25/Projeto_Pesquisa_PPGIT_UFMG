@@ -42,3 +42,17 @@ Se estiver atualizando da v3.0, observe que somente as seguintes tabelas foram m
 * OMR
 * transferências
 * icustays
+
+---
+
+Referências
+
+Henry, J., Pylypchuk, Y., Searcy T. & Patel V. (maio de 2016). Adoção de Sistemas de Registro Eletrônico de Saúde entre Hospitais Não Federais de Cuidados Agudos dos EUA: 2008-2015. Resumo de Dados do ONC, nº 35. Escritório do Coordenador Nacional de Tecnologia da Informação em Saúde: Washington, DC.
+Halevy, A., Norvig, P., & Pereira, F. (2009). A eficácia irracional dos dados. IEEE Intelligent Systems, 24(2), 8-12.
+Johnson, AE, Pollard, TJ, Shen, L., Lehman, LH, Feng, M., Ghassemi, M., ... e Mark, RG (2016). MIMIC-III, um banco de dados de cuidados intensivos de livre acesso. Dados científicos, 3(1), 1-9.
+Documentação online do MIMIC. https://mimic.mit.edu
+Johnson AE, Stone DJ, Celi LA, Pollard TJ. O Repositório de Códigos MIMIC: possibilitando a reprodutibilidade na pesquisa em terapia intensiva. Journal of the American Medical Informatics Association. 2018 jan;25(1):32-9.
+Alistair Johnson, Tom Pollard, Jim Blundell, Brian Gow, Erinhong, Nicolas Paris e outros. MIT-LCP/código-mimic: Código MIMIC v2.1.1. Zenodo; 2021. https://doi.org/10.5281/zenodo.821871
+Johnson, A., Pollard, T., Horng, S., Celi, LA, & Mark, R. (2023). MIMIC-IV-Note: Notas clínicas de texto livre desidentificadas (versão 2.2). PhysioNet. https://doi.org/10.13026/1n74-ne17.
+Johnson, A., Bulgarelli, L., Pollard, T., Celi, LA, Mark, R., & Horng, S. (2023). MIMIC-IV-ED (versão 2.2). FisioNet. https://doi.org/10.13026/5ntk-km72.
+Johnson, A., Pollard, T., Mark, R., Berkowitz, S., & Horng, S. (2019). Banco de dados MIMIC-CXR (versão 2.0.0). PhysioNet. https://doi.org/10.13026/C2JT1Q.
