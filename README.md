@@ -4,8 +4,21 @@ Aluno: Bruno Martins Bartolomeu
 
 Tema: Avaliação e Conformidade de Modelos de IA responsável em Saúde
 
----
+https://physionet.org/content/mimiciv/3.1/
 
 Base de dados: MIMIC-IV 
 
 Linguagem: Python
+
+---
+
+Resumo
+
+Dados médicos coletados retrospectivamente têm a oportunidade de aprimorar o atendimento ao paciente por meio da descoberta de conhecimento e do desenvolvimento de algoritmos. A ampla reutilização de dados médicos é desejável para o bem público, mas o compartilhamento de dados deve ser feito de forma a proteger a privacidade do paciente. Aqui, apresentamos o Medical Information Mart for Intensive Care (MIMIC)-IV, um grande conjunto de dados desidentificados de pacientes internados no departamento de emergência ou em uma unidade de terapia intensiva no Beth Israel Deaconess Medical Center em Boston, Massachusetts. O MIMIC-IV contém dados de mais de 65.000 pacientes internados em uma UTI e mais de 200.000 pacientes internados no departamento de emergência. O MIMIC-IV incorpora dados contemporâneos e adota uma abordagem modular para a organização de dados, destacando a procedência dos dados e facilitando o uso individual e combinado de fontes de dados distintas. O MIMIC-IV pretende dar continuidade ao sucesso do MIMIC-III e oferecer suporte a um amplo conjunto de aplicações na área da saúde.
+
+---
+
+Fundo
+
+Nos últimos anos, houve um movimento coordenado em direção à adoção de sistemas de registros médicos digitais em hospitais. Nos EUA, quase 96% dos hospitais tinham um sistema de registro eletrônico de saúde digital (EHR) em 2015 [1]. Dados médicos coletados retrospectivamente têm sido cada vez mais usados para epidemiologia e modelagem preditiva. Esta última se deve, em parte, à eficácia das abordagens de modelagem em grandes conjuntos de dados [2]. Apesar desses avanços, o acesso a dados médicos para melhorar o atendimento ao paciente continua sendo um desafio significativo. Embora os motivos para o compartilhamento limitado de dados médicos sejam multifacetados, as preocupações com a privacidade do paciente são destacadas como uma das questões mais significativas. Embora estudos com pacientes tenham demonstrado um consenso quase uniforme de que dados médicos desidentificados devem ser usados para melhorar a prática médica, especialistas na área continuam a debater os mecanismos ideais para fazê-lo. Excepcionalmente, o banco de dados MIMIC-III adotou um esquema de acesso permissivo que permitiu ampla reutilização dos dados [3]. Esse mecanismo tem se mostrado bem-sucedido no amplo uso do MIMIC-III em uma variedade de estudos, desde a avaliação da eficácia do tratamento em coortes bem definidas até a previsão de desfechos-chave para os pacientes, como a mortalidade. O MIMIC-IV visa dar continuidade ao sucesso do MIMIC-III, com uma série de alterações para melhorar a usabilidade dos dados e permitir mais aplicações em pesquisas.
+
