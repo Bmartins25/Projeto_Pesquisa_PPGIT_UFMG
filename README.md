@@ -34,11 +34,11 @@ Os itemidvalores nas tabelas d_labitems e labevents foram alterados para um subc
 Dois subject_idestavam presentes em várias tabelas de dados, mas não na tabela de pacientes . Esses indivíduos foram removidos das tabelas de dados. As restrições do banco de dados com uma chave estrangeira para a subject_id coluna na tabela de pacientes agora devem funcionar corretamente.
 Se estiver atualizando da v3.0, observe que somente as seguintes tabelas foram modificadas (e, portanto, requerem atualização):
 
-d_labitems
-diagnósticos_icd
-códigos drg
-eventos de laboratório
-eventos de microbiologia
-OMR
-transferências
-icustays
+* d_labitems
+* diagnósticos_icd
+* códigos drg
+* eventos de laboratório
+* eventos de microbiologia
+* OMR
+* transferências
+* icustays
