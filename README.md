@@ -25,7 +25,9 @@ Nos últimos anos, houve um movimento coordenado em direção à adoção de sis
 ---
 
 Notas de lançamento
+
 MIMIC-IV v3.1
+
 O MIMIC-IV v3.1 foi lançado em outubro de 2024. Esta versão corrigiu pequenos bugs relatados pela comunidade:
 
 Os itemidvalores nas tabelas d_labitems e labevents foram alterados para um subconjunto de medições laboratoriais entre as versões 2.2 e 3.0. Essa alteração não foi intencional. As tabelas foram atualizadas e os valores d_labitems e labevents itemid foram verificados para serem consistentes com a versão 2.2.
