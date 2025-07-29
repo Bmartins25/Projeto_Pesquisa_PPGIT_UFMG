@@ -2,7 +2,7 @@
 
 Aluno: Bruno Martins Bartolomeu
 
-Tema: Avaliação e Conformidade de Modelos de IA responsável em Saúde
+Tema: Avaliação e Conformidade de Modelos de Inteligência Artificial responsável em Saúde
 
 https://physionet.org/content/mimiciv/3.1/
 
